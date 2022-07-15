@@ -1,3 +1,7 @@
+# Twiiter-using-web3-and-blockchain
+Nextjs is used for frontend, solidity is for implementation of smart contracts, sanity.i.o is used to manage the text and images.
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
