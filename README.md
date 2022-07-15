@@ -1,5 +1,7 @@
 # Twiiter-using-web3-and-blockchain
 Nextjs is used for frontend, solidity is for implementation of smart contracts, sanity.i.o is used to manage the text and images.
+![image](https://user-images.githubusercontent.com/88650559/179293522-f79adfc6-2c7d-4a4c-813b-756c7bec0af2.png)
+
 
 
 # Next.js + Tailwind CSS Example
