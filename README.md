@@ -1,3 +1,8 @@
+
+# Why BlockChain?
+
+It will create a trusted, unfilterable, uncensorable repository of data and information that is accessible worldwide. It is this characteristic that will drive the creation of the third generation of the internet. And this is why the blockchain is the future of the internet.
+
 # Twitter-using-web3-and-blockchain
 Nextjs is used for frontend, solidity is for implementation of smart contracts, sanity.i.o is used to manage the text and images.
 
@@ -29,6 +34,3 @@ pnpm create next-app --example with-tailwindcss with-tailwindcss-app
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
-# Why BlockChain?
-
-It will create a trusted, unfilterable, uncensorable repository of data and information that is accessible worldwide. It is this characteristic that will drive the creation of the third generation of the internet. And this is why the blockchain is the future of the internet.
