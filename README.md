@@ -1,4 +1,4 @@
-# Why BlockChain?
+# Why I choose BlockChain?
 
 It will create a trusted, unfilterable, uncensorable repository of data and information that is accessible worldwide. It is this characteristic that will drive the creation of the third generation of the internet. And this is why the blockchain is the future of the internet.
 
